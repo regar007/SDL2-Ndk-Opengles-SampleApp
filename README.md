@@ -2,6 +2,8 @@
 
 A Sample App to demonstrate integration of SDL2 on OpenGLES with NDK app.
 
+Installation: Android SDK -> SDK tools -> NDK
+
 * Clone the repo to directly jump into the coding in c/c++ for opengl with SDL2 library.
 * GO to Build & run instructions to run the app.
 
@@ -10,8 +12,6 @@ OR
 * Follow the bellow set up understand how it was done!
 
 Set up:
-
-Installation: Android SDK -> SDK tools -> NDK
 
 Hello JNI : Sample from google
 
